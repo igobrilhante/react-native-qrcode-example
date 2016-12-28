@@ -2,193 +2,193 @@
 <items version="2" >
 
     <item
-        jar="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/classes-3c82a2ffd4a30e0dcb15459bbff12f512fc23f8d.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/classes-e67b3f4625ef34c6b6588b2f2aff167a8a3b9175.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-a01ff8e8ad96dbae3cb1480bd29f0628650dead0.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-d48ebe1e203a6e2278aa392058b8b230d63ffef5.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/classes-4cf8eee8b6e6dc3596450895b3c47018202789eb.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/classes-3f9c553d8d8af3351dc73a946b5352cc28e0b81d.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/exploded-aar/Example/react-native-camera/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="62c032074663a7e919ab198200d5b193d195d21d">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/classes-43db23de38e7b0c10b8bdd120e9897f616f5abfa.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-f0fa8701e15a05b2b9ba20553dd7f65f47db09de.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/core-3.2.1-48fc36e93566ac0e9c1951b43b7cf486798b1d9d.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-0c5c1a7ab689996b2847366d3a1d43169003c9ac.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/classes-d56052d87a5a77544e4aa4d6384c07fd0b9cd9b9.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/classes-aaf76162261df5ad918c0e957ebab223384e5db8.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1-78e90b64775c417c5385896bfb46940cb2fcd8a9.jar" />
-    </item>
-    <item
-        jar="/usr/local/Cellar/android-sdk/24.4.1_1/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-be29bbd49f7270cccaeecc1f5df54d90f886d9c7.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-d598091679aff257aafd24eae037f80e1eafd628.jar" />
-    </item>
-    <item
         jar="/Users/igobrilhante/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-896d591f0f466196fe7402e93627836639c9b887.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.34.1/jars/libs/infer-annotations-1.5.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="085d4b604a91b790ed60ccf219b0c30c9db7d9ea">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-1a8f05ec335cd7ad81b27c36436b7ab92c22a5f7.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/classes-7f6dc990de061861ef2f8b85e59c7112a45e3ed5.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/classes-77dcf307e7d84c058a5c5bab66101ff672aed7eb.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/.m2/repository/com/adobe/xmp/xmpcore/5.1.2/xmpcore-5.1.2.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="55615fa2582424e38705487d1d3969af8554f637">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2-2386416e0e4b0a3ac2ba039bde359d4e02c3d555.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/classes-4bcfaee573b79e496e8444414a8561ece3b62f92.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-f16493de557214debdeeafcfc098e83c75b556cc.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.34.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="24959c1d0b0991e7d0d42ab7bd7e7d68b2c3e679">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/classes-1f573b48be5630f6cc159aba6b7a0a4175265669.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-c943ff9c4136202e90b73261cc36717c6d54aae5.jar" />
-    </item>
-    <item
-        jar="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/classes-c46250a3745a2aa05748251fe79647536f5142ea.jar" />
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-896d591f0f466196fe7402e93627836639c9b887.jar" />
     </item>
     <item
         jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="63994437f62bc861bc20c605d12962f7246116d1">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-bea40cf2ad3af1094270abef41323c1a4b5c15bc.jar" />
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-bea40cf2ad3af1094270abef41323c1a4b5c15bc.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-c943ff9c4136202e90b73261cc36717c6d54aae5.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-f16493de557214debdeeafcfc098e83c75b556cc.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/classes-1bffc914a568087b24cc0b507b51fe084d87e40e.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/core-3.2.1-48fc36e93566ac0e9c1951b43b7cf486798b1d9d.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-f0fa8701e15a05b2b9ba20553dd7f65f47db09de.jar" />
     </item>
     <item
         jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
-        <dex dex="/Users/igobrilhante/Desktop/veniin-workspace/react-native-camera/Example/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-47c1c2e62429395113216e6924c07898c02d2c5e.jar" />
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-47c1c2e62429395113216e6924c07898c02d2c5e.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-bd2f58ab669c6f6906558f26162f49258cd5baa5.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/classes-95c59f345267f898b18bd65882e71b65ca5cde47.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/classes-ed30453e3487b18102acad3f3862a59f256ce0df.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/.m2/repository/com/adobe/xmp/xmpcore/5.1.2/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2-2386416e0e4b0a3ac2ba039bde359d4e02c3d555.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/classes-76e4ea9e568c94be79cc7587e47bdc7568bb28fd.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/classes-88154114d8d9ea07460fe23270a4e0747d9bf1d5.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/classes-b5fddce3ebb29c4fa0c2ded1948f7d165e01f61b.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/exploded-aar/Example/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ee6ba98c36537dbfdb955a053e5bde4880b92808">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/classes-439a831282daeab1b553b1500890f287d1151b87.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/classes-422ce2d82f86ccdb373336e2b54da1e0b4ece5f0.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-d598091679aff257aafd24eae037f80e1eafd628.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-a01ff8e8ad96dbae3cb1480bd29f0628650dead0.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.34.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="24959c1d0b0991e7d0d42ab7bd7e7d68b2c3e679">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/classes-45a18a6a06b64368661cf9a64819f8c71d842a21.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/classes-523b807860e4e9e83a04bfa8fa9d1565648d60a0.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-d48ebe1e203a6e2278aa392058b8b230d63ffef5.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.34.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="085d4b604a91b790ed60ccf219b0c30c9db7d9ea">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-01ce568ea3f49bee928cc190e2fc0d80b69b65d0.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1-78e90b64775c417c5385896bfb46940cb2fcd8a9.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/classes-2980789255fad87e0ee06f83e4246bf42e7883c8.jar" />
+    </item>
+    <item
+        jar="/usr/local/Cellar/android-sdk/24.4.1_1/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-be29bbd49f7270cccaeecc1f5df54d90f886d9c7.jar" />
+    </item>
+    <item
+        jar="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/igobrilhante/Desktop/github/react-native-qrcode-example/android/app/build/intermediates/pre-dexed/debug/classes-78b6ae004de448b26fa6ac33b3b6f7f44d4ec5ab.jar" />
     </item>
 
 </items>
